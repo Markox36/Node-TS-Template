@@ -1,7 +1,7 @@
 {
-  "name": "kena-oauth",
+  "name": "ts-template",
   "version": "0.0.1",
-  "description": "kena-oauth",
+  "description": "ts-template",
   "main": "index.ts",
   "type": "module",
   "types": "dist/index.d.ts",
